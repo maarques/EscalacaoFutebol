@@ -1,6 +1,6 @@
 # EscalacaoFutebol
 O código imprime uma escalação de time de futebol de acordo com a entrada.
-modelo de entrada/sugestões de entrada:\
+modelo de entrada/sugestões de entrada:
 1\
 alexandre defensor 6\
 1\            
@@ -53,4 +53,4 @@ sara goleiro 10\
 3\
 3 3 4\
 4\
-5\
+5
