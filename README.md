@@ -4,8 +4,8 @@ O código imprime uma escalação de time de futebol de acordo com a entrada.
 modelo de entrada/sugestões de entrada:\
 1\
 alexandre defensor 6\
-1\            
-victor atacante 10\ 
+1\
+victor atacante 10\
 2\
 victor atacante 10 x alexandre defensor 6\
 2\
